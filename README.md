@@ -4,5 +4,5 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 ![Photo](1.png)
 
 # Informal Responses
-[Challenge Problem](Challenge1.md)
+[Challenge Problem](Challenge1.md)\n
 [Project1](Project1.md)
