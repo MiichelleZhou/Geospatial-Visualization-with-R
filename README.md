@@ -5,4 +5,4 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 
 # Informal Responses
 [Challenge Problem](Challenge1.md)  
-[Project1: Individual Challenge](Project1.md), [Stretch Goal 2](stretch1.md)
+[Project1: Individual Challenge](Project1.md), [Stretch Goal 2](stretch1.md), [Stretch Goal 3](stretch2.md)
