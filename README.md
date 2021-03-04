@@ -5,7 +5,7 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 
 # Projects
 [Challenge Problem](Challenge1.md)  
-[Project 1: Individual Challenge](1_challenge.md), [Stretch Goal 2](1_stretch1.md), [Stretch Goal 3](1_stretch2.md)  
+[Project 1 Individual Challenge](1_challenge.md), [Stretch Goal 2](1_stretch1.md), [Stretch Goal 3](1_stretch2.md)  
 [Project 2 Deliverable](2.1_challenge.md), [Extra Credits](2.1_ec.md)
  
 # Informal Responses
