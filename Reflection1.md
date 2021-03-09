@@ -1,4 +1,4 @@
-# In Class Reflection 
+# In Class Reflection #1
 
 We are now living in the digital information era where human social life is rapidly digitalized. As big data is revolutionizing the way our world functions and human behaves, Jushua Bluenstock writes an article “Don’t forget people in the use of big data for development”, to reminds people the importance of taking advantage of big data to promote human development. At the same time, Bluenstock points out the latent problems and risks behind the extensive use of data and provides several ways forward as solutions.
 
