@@ -9,4 +9,5 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 [Project 2 Deliverable](2.1_challenge.md), [Extra Credits](2.1_ec.md)
  
 # Informal Responses
-[Reflection 1](Reflection1.md)
+[Reflection 1](Reflection1.md)  
+[Reflection 2](Reflection2.md)
