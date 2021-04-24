@@ -14,4 +14,5 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 # Informal Responses
 [Reflection 1](Reflection1.md)  
 [Reflection 2](Reflection2.md)   
-[Reflection 3](Reflection3.md)
+[Reflection 3](Reflection3.md)   
+[Reflection 4](Reflection4.md)
