@@ -10,7 +10,11 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 [Project 3 Deliverables](3_challenge.md), [Extra Credits](3_ec.md)  
 [Project 4 Deliverables](4_challenge.md)
 
- 
+# Accessibilities
+[Accessibility_1](Accessibility_1.md)  
+[Accessibility_2](Accessibility_2.md)  
+
+
 # Informal Responses
 [Reflection 1](Reflection1.md)  
 [Reflection 2](Reflection2.md)   
