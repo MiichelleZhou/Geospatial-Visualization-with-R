@@ -7,4 +7,4 @@ Total population of Mutasa and Mutare is 429,586 (Mutasa has 167,462 and Mutare 
 
 The distribution of roadways in these two citys of province Manicaland indicates that the urban area in these two adm2s is not fully developed yet. Because there's not a single complete mainline built throughout areas where human activies are most frequent. Primary and secondary roadways are always segmented. Also, there's a lack of healthcare facilities in these two cities as well, especially for the urban areas.
 
-![](access2.png)49261.73
+![](access2.png)
