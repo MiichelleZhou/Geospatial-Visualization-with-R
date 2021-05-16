@@ -13,6 +13,7 @@ Hi everyone, my name is Michelle Zhou. I'm a freshman student from College of Wi
 # Accessibilities
 [Accessibility_1](Accessibility_1.md)  
 [Accessibility_2](Accessibility_2.md)  
+[Accessibility_3](Accessibility_3.md)  
 
 
 # Informal Responses
